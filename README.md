@@ -16,7 +16,14 @@ Recuerda que debes seleccionar tu nombre de usuario de github en owner <img alig
 <img align="right" width="250" src="./img/Imagen002.jpg" alt="abre codespaces" />
 
 Ahora abre un codespace de este repositorio haciendo click en los botones de Code y Create codespace on main. 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Crea una rama (*Branch*)
 
 Desde la terminal de tu codespaces, crea una rama (*branch*) usando el comando  `git checkout`:
@@ -35,7 +42,11 @@ Abre el archivo `Colaboradores.md` añade tu nombre utilizando este formato `[Pe
 
 
 Ahora escribe en la terminal `git status`, verás que hay cambios.
-
+<br>
+<br>
+<br>
+<br>
+<br>
 Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
 
 ```
@@ -58,16 +69,32 @@ Reemplaza `<añade-el-nombre-de-la-rama>` con el nombre de la rama que creaste a
 
 ## Envía (*Submit*) tus cambios para ser revisados
 
-Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre este botón. <img align="right" width="200" src="./img/Imagen005.jpg" alt="crea pull request" />
+Si vas a tu repositorio en GitHub, verás un botón `Compare & pull request`. Haz click sobre este botón. <img align="right" width="400" src="./img/Imagen005.jpg" alt="crea pull request" />
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 Ahora envía la *pull request*.
 
-<img align="right" width="250" src="./img/Imagen006.jpg" alt="envia pull request" />
+<img align="right" width="500" src="./img/Imagen006.jpg" alt="envia pull request" />
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
