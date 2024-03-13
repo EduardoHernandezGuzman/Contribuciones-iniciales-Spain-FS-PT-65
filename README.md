@@ -10,7 +10,9 @@ Realiza un fork de este repositorio haciendo clic en el botón 'Fork' ubicado en
 
 
 Recuerda que debes seleccionar tu nombre de usuario de github en owner <img align="right" width="250" src="./img/Imagen003.jpg" alt="selecciona el owner" />
-
+<br>
+<br>
+<br>
 ## Abre un Codespaces en el repositorio bifurcado
 
 <img align="right" width="250" src="./img/Imagen002.jpg" alt="abre codespaces" />
