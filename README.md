@@ -58,7 +58,7 @@ Abre el archivo `Colaboradores.md` añade tu nombre utilizando este formato
 <br>
 <br>
 
-Asegurate de que tienes en la terminal esta ruta `/workspaces/nombre-de-tu-repositorio (nombre-de-tu-rama) $`
+⚠️  Asegurate de que tienes en la terminal esta ruta `/workspaces/nombre-de-tu-repositorio (nombre-de-tu-rama) $`  ⚠️
 <br>
 <br>
 Ahora escribe en la terminal `git status`, verás que hay cambios. <img align="right" width="320" src="./img/Imagen004.jpg" alt="git status" />
