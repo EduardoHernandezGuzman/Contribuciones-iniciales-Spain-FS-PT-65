@@ -4,8 +4,8 @@ Dar los primeros pasos puede resultar intimidante. La inexperiencia al colaborar
 
 Aunque leer artículos y ver tutoriales es útil, ¿qué mejor manera de aprender que sumergirse en la práctica? Este proyecto se centra en ser una guía amigable y simplificada para que los principiantes den sus primeras contribuciones. Si estás listo para dar el primer paso, sigue los pasos que se detallan a continuación.
 
-## Bifurca (*Fork*) este repositorio <img align="right" width="250" src="./img/Imagen001.jpg" alt="fork de este repositorio" />
-
+## Bifurca (*Fork*) este repositorio 
+<img align="right" width="250" src="./img/Imagen001.jpg" alt="fork de este repositorio" />
 Realiza un fork de este repositorio haciendo clic en el botón 'Fork' ubicado en la esquina superior derecha de esta página. Esto generará una copia de este repositorio en tu cuenta de GitHub.
 
 
@@ -13,6 +13,7 @@ Recuerda que debes seleccionar tu nombre de usuario de github en owner <img alig
 <br>
 <br>
 <br>
+
 ## Abre un Codespaces en el repositorio bifurcado
 
 <img align="right" width="250" src="./img/Imagen002.jpg" alt="abre codespaces" />
@@ -26,6 +27,11 @@ Ahora abre un codespace de este repositorio haciendo click en los botones de Cod
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
 ## Crea una rama (*Branch*)
 
 Desde la terminal de tu codespaces, crea una rama (*branch*) usando el comando  `git checkout`:
@@ -37,6 +43,10 @@ Por ejemplo:
 ```
 git checkout -b pepito-perez
 ```
+## Navega usando la terminal
+Usando únicamente la terminal de codespaces, busca un archivo llamado Instrucciones.txt , ábrelo y sigue las instrucciones del mismo.
+Una vez hayas terminado continúa con este README.
+
 ## Haz los cambios necesarios en Colaboradores.md y confirma (*Commit*) esos cambios
 
 Abre el archivo `Colaboradores.md` añade tu nombre utilizando este formato `[Pepito Perez](https://github.com/Pepito_Perez/)`  <img align="right" width="320" src="./img/Imagen004.jpg" alt="git status" />
