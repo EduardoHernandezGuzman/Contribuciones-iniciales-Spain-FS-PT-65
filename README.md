@@ -49,7 +49,9 @@ Una vez hayas terminado continúa con este README.
 
 ## Haz los cambios necesarios en Colaboradores.md y confirma (*Commit*) esos cambios
 
-Abre el archivo `Colaboradores.md` añade tu nombre utilizando este formato `[Pepito Perez](https://github.com/Pepito_Perez/)`  <img align="right" width="320" src="./img/Imagen004.jpg" alt="git status" />
+Abre el archivo `Colaboradores.md` añade tu nombre utilizando este formato 
+<br>
+`[Pepito Perez](https://github.com/Pepito_Perez/)`  <img align="right" width="320" src="./img/Imagen004.jpg" alt="git status" />
 
 
 
