@@ -64,7 +64,7 @@ Ahora escribe en la terminal `git status`, verás que hay cambios.
 Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
 
 ```
-git add Colaboradores.md
+git add .
 ```
 
 Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
