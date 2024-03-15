@@ -115,7 +115,33 @@ Ahora envía la *pull request*.
 <br>
 <br>
 
+## Términos Básicos de Git y GitHub
+
+1. **Fork:** Crear una copia independiente de un repositorio en GitHub. Esto permite a los usuarios trabajar en su propia versión del proyecto sin afectar el original.
+
+2. **Branch:** Una línea de desarrollo independiente en un repositorio de Git. Los branches permiten a los desarrolladores trabajar en nuevas características o solucionar problemas sin alterar la rama principal (también conocida como `main` o `master`).
+
+3. **Git Checkout:** Un comando utilizado para cambiar entre branches.
+
+4. **Git Status:** Un comando que muestra el estado actual de los archivos en el repositorio de Git, incluyendo los cambios sin añadir (`untracked`), los cambios añadidos pero no confirmados (`staged`), y los cambios confirmados (`committed`).
+
+5. **Git Add:** Un comando utilizado para añadir cambios realizados en archivos al área de preparación de Git. Esto prepara los archivos para ser confirmados en un commit.
+
+6. **Git Commit:** Un comando utilizado para confirmar los cambios añadidos al área de preparación de Git. Cada commit tiene un mensaje asociado que describe los cambios realizados.
+
+7. **Git Push:** Un comando utilizado para subir commits locales a un repositorio remoto en GitHub. Esto sincroniza los cambios realizados en tu repositorio local con el repositorio remoto.
+
+8. **Compare and Pull Request:** Comparar y solicitar una fusión de cambios entre dos branches en un repositorio de GitHub. Un pull request permite a los colaboradores proponer cambios en un proyecto, revisar los cambios propuestos por otros y discutir los cambios antes de fusionarlos en la rama principal.
+
+9. **Pull Request:** Una solicitud formal para fusionar los cambios realizados en una rama (generalmente una rama de funcionalidad o solución de problemas) con la rama principal del repositorio. Los pull requests son revisados por otros colaboradores antes de ser fusionados.
+
+10. **Merge:** Fusionar los cambios realizados en una rama con otra rama en un repositorio de Git. El merge combina los cambios de dos branches y los une en una sola rama, manteniendo el historial de cambios de forma ordenada.
 
 ## Has terminado
 
-Ahora me tocará a mi revisar tus cambios y fusionarlos (haciendo *merge*) con la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
+Ahora me toca a mi revisar tus cambios y fusionarlos (haciendo *merge*) con la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
+
+## Gracias
+Si este repositorio te ha sido útil, ¡considera marcarlo con una estrella ⭐ y seguirme en mi perfil de GitHub para estar al tanto de nuevos proyectos y actualizaciones!
+
+[¡Sígueme en GitHub!](https://github.com/EduardoHernandezGuzman)
