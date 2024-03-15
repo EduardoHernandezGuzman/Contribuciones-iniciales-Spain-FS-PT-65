@@ -47,7 +47,7 @@ git checkout -b pepito-perez
 Crea una carpeta con tu nombre en la ruta /Alumnos/Listado , y dentro de esa carpeta crea un archivo con 
 extensión .md (MARKDOWN) donde vas enlazar tu github ... por ejemplo `[Pepito Perez](https://github.com/Pepito_Perez/)` 
 
-## Confirma los cambios realizados (*Commit*) esos cambios
+## Confirma los cambios realizados (*Commit*)
 Ahora escribe en la terminal `git status`, verás que hay cambios. <img align="right" width="320" src="./img/Imagen004.jpg" alt="git status" />
 <br>
 <br>
