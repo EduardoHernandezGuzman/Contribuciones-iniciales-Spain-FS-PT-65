@@ -1,3 +1,0 @@
-# Contribución
-
-Héctor Chocobar

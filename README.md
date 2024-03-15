@@ -43,24 +43,11 @@ Por ejemplo:
 ```
 git checkout -b pepito-perez
 ```
-## Navega usando la terminal
-Usando únicamente la terminal de codespaces, busca un archivo llamado Instrucciones.txt , ábrelo y sigue las instrucciones del mismo.
-Una vez hayas terminado continúa con este README.
+## Realiza cambios
+Crea una carpeta con tu nombre en la ruta /Alumnos/Listado , y dentro de esa carpeta crea un archivo con 
+extensión .md (MARKDOWN) donde vas enlazar tu github ... por ejemplo `[Pepito Perez](https://github.com/Pepito_Perez/)` 
 
-## Haz los cambios necesarios en Colaboradores.md y confirma (*Commit*) esos cambios
-
-Abre el archivo `Colaboradores.md` añade tu nombre utilizando este formato 
-<br>
-`[Pepito Perez](https://github.com/Pepito_Perez/)` 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-⚠️  Asegurate de que tienes en la terminal esta ruta `/workspaces/nombre-de-tu-repositorio (nombre-de-tu-rama) $`  ⚠️
-<br>
-<br>
+## Confirma los cambios realizados (*Commit*) esos cambios
 Ahora escribe en la terminal `git status`, verás que hay cambios. <img align="right" width="320" src="./img/Imagen004.jpg" alt="git status" />
 <br>
 <br>
@@ -77,7 +64,7 @@ git add .
 
 Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```
-git commit -m "Añadido <tu-nombre> a la lista de colaboradores"
+git commit -m "Añadido <tu-nombre> al listado de alumnos"
 ```
 cambiando `<tu-nombre>` con tu nombre.
 
