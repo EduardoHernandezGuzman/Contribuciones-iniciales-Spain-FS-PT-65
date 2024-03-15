@@ -1,6 +1,5 @@
 Usando únicamente la terminal de CODESPACES, crea una carpeta con tu nombre 
-en la ruta /workspaces/Contribuciones-iniciales-Spain-FS-PT-65/Alumnos/Listado ,
-y dentro de esa carpeta crea un archivo con extensión .md (MARKDOWN) donde
-vas a hacer una lista de 5 comandos de terminal que no hayamos visto en clase
-y su funcionamiento.
+en la ruta /Alumnos/Listado ,y dentro de esa carpeta crea un archivo con 
+extensión .md (MARKDOWN) donde vas a hacer una lista de 5 comandos de 
+terminal que no hayamos visto en clase y su funcionamiento.
 Sé creativ@ con el uso de Markdown.
