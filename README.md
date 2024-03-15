@@ -71,12 +71,9 @@ Ahora escribe en la terminal `git status`, verás que hay cambios. <img align="r
 Agrega esos cambios a la rama (*branch*) que creaste anteriormente usando el comando `git add`:
 
 ```
-git add Colaboradores.md
+git add .
 ```
-```
-git add Alumnos/Listado/Nombre-de-tu-carpeta-creada/
 
-```
 
 Ahora haz un *commit* sobre estos cambios ejecutando el comando `git commit`:
 ```
