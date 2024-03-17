@@ -1,0 +1,19 @@
+Tutorials & templates:
+
+https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1
+https://www.youtube.com/playlist?list=PLnunbwZjHqMO-JII_HBf5TAzdzaBJP34w
+
+
+Resources:
+
+https://www.markdownguide.org/cheat-sheet/
+https://git-scm.com/docs/git-commit#:~:text=The%20%2Dm%20option%20may%20be,prefixed%20with%20%22amend!%22
+https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal
+https://es.slideshare.net/iamsrijon/cheatsheet-of-msdos#3
+
+https://fontawesome.com/
+https://emojipedia.org/
+
+
+Training:
+https://www.codewars.com/
