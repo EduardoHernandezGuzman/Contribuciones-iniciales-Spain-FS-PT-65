@@ -132,7 +132,7 @@ Ahora envía la *pull request*.
 
 10. **Merge:** Fusionar los cambios realizados en una rama con otra rama en un repositorio de Git. El merge combina los cambios de dos branches y los une en una sola rama, manteniendo el historial de cambios de forma ordenada.
 
-## Has terminado
+# Has terminado
 
 Ahora me toca a mi revisar tus cambios y fusionarlos (haciendo *merge*) con la rama main de este proyecto. Recibirás una notificación por correo electrónico cuando los cambios hayan sido fusionados.
 
